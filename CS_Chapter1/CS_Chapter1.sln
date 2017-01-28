@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BurmaShave", "BurmaShave\Bu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "E:\Visual Studio\HelloWorld\HelloWorld.csproj", "{3CA29802-90F6-4450-B062-72E90DB50C63}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Random Codes", "Random Codes\Random Codes.csproj", "{AFA4FF40-F34E-4576-B25F-81DD2C31916C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{3CA29802-90F6-4450-B062-72E90DB50C63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CA29802-90F6-4450-B062-72E90DB50C63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CA29802-90F6-4450-B062-72E90DB50C63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFA4FF40-F34E-4576-B25F-81DD2C31916C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA4FF40-F34E-4576-B25F-81DD2C31916C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA4FF40-F34E-4576-B25F-81DD2C31916C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA4FF40-F34E-4576-B25F-81DD2C31916C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
