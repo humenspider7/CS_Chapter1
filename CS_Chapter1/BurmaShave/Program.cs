@@ -10,6 +10,7 @@ namespace BurmaShave
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Let's make Hitler\nAnd Hirohito\nFeel as Bad\nAs Old Benito\nBurma-Shave");
         }
     }
 }

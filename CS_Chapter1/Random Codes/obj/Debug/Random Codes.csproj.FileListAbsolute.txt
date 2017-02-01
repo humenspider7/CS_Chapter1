@@ -3,3 +3,4 @@ C:\Users\eahscs\Documents\GitHub\CS_Chapter1\CS_Chapter1\Random Codes\bin\Debug\
 C:\Users\eahscs\Documents\GitHub\CS_Chapter1\CS_Chapter1\Random Codes\bin\Debug\Random Codes.pdb
 C:\Users\eahscs\Documents\GitHub\CS_Chapter1\CS_Chapter1\Random Codes\obj\Debug\Random Codes.exe
 C:\Users\eahscs\Documents\GitHub\CS_Chapter1\CS_Chapter1\Random Codes\obj\Debug\Random Codes.pdb
+C:\Users\eahscs\Documents\GitHub\CS_Chapter1\CS_Chapter1\Random Codes\obj\Debug\Random Codes.csprojResolveAssemblyReference.cache
